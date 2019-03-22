@@ -1,0 +1,478 @@
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.6.7)  20 MAR 2019 11:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SICE19.tex
+(./SICE19.tex
+pLaTeX2e <2018-04-01>+1 (based on LaTeX2e <2018-04-01> patch level 2)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./SICE19.cls (c:/texlive/2018/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count83
+\cnt@paperwidth=\count84
+\cnt@paperheight=\count85
+\cnt@hoffset=\count86
+\cnt@voffset=\count87
+\cnt@textheight=\count88
+\cnt@textwidth=\count89
+\cnt@topmargin=\count90
+\cnt@oddsidemargin=\count91
+\cnt@evensidemargin=\count92
+\cnt@headheight=\count93
+\cnt@headsep=\count94
+\cnt@marginparsep=\count95
+\cnt@marginparwidth=\count96
+\cnt@marginparpush=\count97
+\cnt@footskip=\count98
+\fheight=\count99
+\ref@top=\count100
+\ref@hoffset=\count101
+\ref@voffset=\count102
+\ref@head=\count103
+\ref@body=\count104
+\ref@foot=\count105
+\ref@margin=\count106
+\ref@marginwidth=\count107
+\ref@marginpar=\count108
+\Interval=\count109
+\ExtraYPos=\count110
+\PositionX=\count111
+\PositionY=\count112
+\ArrowLength=\count113
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/rawfonts.sty
+Package: rawfonts 1994/05/08 Low-level LaTeX 2.09 font compatibility
+
+(c:/texlive/2018/texmf-dist/tex/latex/tools/somedefs.sty
+Package: somedefs 1994/06/01 v0.03 Toolkit for optional definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 49.
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+))
+(c:/texlive/2018/texmf-dist/tex/latex/base/oldlfont.sty
+Package: oldlfont 2014/09/29 v2.2k Standard LaTeX package
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/tracefnt.sty
+Package: tracefnt 2015/02/21 v3.0k Standard LaTeX package (font tracing)
+\tracingfonts=\count114
+LaTeX Info: Redefining \selectfont on input line 106.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 61.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 62.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 63.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 69.
+LaTeX Info: Redefining \em on input line 79.
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen118
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+-- This is a 10 point document
+\tmpitemindent=\dimen119
+\c@section=\count115
+\c@subsection=\count116
+\c@subsubsection=\count117
+\captionindent=\skip41
+\c@figure=\count118
+\c@table=\count119
+\@minsofar=\count120
+\@min=\count121
+\@cite@temp=\count122
+\c@theorem=\count123
+) (c:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip42
+\f@nch@O@elh=\skip43
+\f@nch@O@erh=\skip44
+\f@nch@O@olh=\skip45
+\f@nch@O@orh=\skip46
+\f@nch@O@elf=\skip47
+\f@nch@O@erf=\skip48
+\f@nch@O@olf=\skip49
+\f@nch@O@orf=\skip50
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+
+
+Package subfigure Warning: Your document class has a bad definition
+ of \endfigure, most likely
+ \let\endfigure=\end@float
+ which has now been changed to
+ \def\endfigure{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endfigure.
+ Please complain to your document class author.
+
+
+Package subfigure Warning: Your document class has a bad definition
+ of \endtable, most likely
+ \let\endtable=\end@float
+ which has now been changed to
+ \def\endtable{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endtable.
+ Please complain to your document class author.
+
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen122
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen123
+\subfiglabelskip=\skip54
+\c@subfigure=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@lotdepth=\count127
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen124
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count128
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count129
+\leftroot@=\count130
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count131
+\DOTSCASE@=\count132
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box42
+\strutbox@=\box43
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count133
+\c@MaxMatrixCols=\count134
+\dotsspace@=\muskip10
+\c@parentequation=\count135
+\dspbrk@lvl=\count136
+\tag@help=\toks17
+\row@=\count137
+\column@=\count138
+\maxfields@=\count139
+\andhelp@=\toks18
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks19
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup11
+\symAMSb=\mathgroup12
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen133
+\lightrulewidth=\dimen134
+\cmidrulewidth=\dimen135
+\belowrulesep=\dimen136
+\belowbottomsep=\dimen137
+\aboverulesep=\dimen138
+\abovetopsep=\dimen139
+\cmidrulesep=\dimen140
+\cmidrulekern=\dimen141
+\defaultaddspace=\dimen142
+\@cmidla=\count140
+\@cmidlb=\count141
+\@aboverulesep=\dimen143
+\@belowrulesep=\dimen144
+\@thisruleclass=\count142
+\@lastruleclass=\count143
+\@thisrulewidth=\dimen145
+)
+(c:/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count144
+\multirow@dima=\skip61
+\bigstrutjot=\dimen146
+)
+(c:/texlive/2018/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment') (c:/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup13
+\symboldletters=\mathgroup14
+\symboldsymbols=\mathgroup15
+LaTeX Info: Redefining \bm on input line 207.
+) (c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+\abovecaptionskip=\skip62
+\belowcaptionskip=\skip63
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2#3-> \ifx \figurestring #
+3 \vskip 0pt \setbox \@tempboxa \hbox {#1~ #2} \ifdim \wd \@tempboxa >\hsize \s
+etbox \@tempboxa \hbox {#1~ } \setlength \captionindent {\wd \@tempboxa } \divi
+de \captionindent by 2 \parbox [t]{\hsize }{\hangindent \captionindent \hangaft
+er =1\unhbox \@tempboxa #2} \else \hbox to\hsize {\hfil \box \@tempboxa \hfil }
+ \fi \else \ifx \fnum@figure \begin {center}{#1~ #2}\end {center} \else \begin 
+{center}{#1~ #2}\end {center} \vskip 5pt \fi \fi .
+\c@ContinuedFloat=\count145
+Package caption Info: subfigure package is loaded.
+) (c:/texlive/2018/texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
+Package: nidanfloat 2017/05/01 v2.8 Put double-floats at top/bottom within twoc
+olumn mode
+\c@dblbotnumber=\count146
+\@dblbotroom=\dimen154
+\@dblbotnum=\count147
+\@floatht=\dimen155
+\@fixht=\dimen156
+\@rightfixht=\dimen157
+\@combinebox=\box44
+)
+(c:/texlive/2018/texmf-dist/tex/latex/here/here.sty)
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count148
+\float@exts=\toks21
+\float@box=\box45
+\@float@everytoks=\toks22
+\@floatcapt=\box46
+)
+\c@mycount=\count149
+ (./SICE19.aux)
+\openout1 = `SICE19.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 90.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+File: ./figure/robot.pdf Graphic file (type pdf)
+<./figure/robot.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 118.
+
+(c:/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1
+
+
+]
+File: ./figure/new_SplitOP.pdf Graphic file (type pdf)
+<./figure/new_SplitOP.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 177.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 177.
+File: ./figure/env_image.pdf Graphic file (type pdf)
+<./figure/env_image.pdf>
+File: ./figure/11point_NP.pdf Graphic file (type pdf)
+<./figure/11point_NP.pdf>
+File: ./figure/2point_NP.pdf Graphic file (type pdf)
+<./figure/2point_NP.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./figure/2point_CS.pdf Graphic file (type pdf)
+<./figure/2point_CS.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 247--249
+[]\OT1/ptm/m/n/10 Victor Her-nan-dez Ben-netts, Achim J. Lilien-thal,
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 255--257
+[]\OT1/ptm/m/n/10 Gunnar B[]Orjesson, []Asa Daniels-son, and Bo H.
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4] (./SICE19.aux) ) 
+Here is how much of TeX's memory you used:
+ 3656 strings out of 493281
+ 50997 string characters out of 6148127
+ 133171 words of memory out of 5000000
+ 7463 multiletter control sequences out of 15000+600000
+ 45951 words of font info for 168 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,17n,43p,1012b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on SICE19.dvi (4 pages, 24960 bytes).
